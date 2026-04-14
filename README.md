@@ -26,7 +26,7 @@ This project includes:
   ```json
   {
     "prompt": "dark story rich RPG with open world",
-    "top_n": 10
+    "top_n": 11
   }
   ```
 - Returns ranked game recommendations from your dataset.
