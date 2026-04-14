@@ -4,6 +4,7 @@ This project is an advanced **Video Game Recommendation System** that combines:
 - 🧠 **Natural Language Processing (NLP)**
 - ⭐ **Sentiment Analysis**
 - 🔍 **Content-Based Filtering**
+- 
 
 It allows users to input natural language prompts (e.g., *"dark story-rich RPG with open world"*) and receive **personalized game recommendations** based on game descriptions and user sentiment.
 
@@ -66,3 +67,12 @@ Hybrid-Game-Recommender/
 ├── requirements.txt
 ├── README.md
 └── .gitignore
+---
+
+## 👨‍💻 Contributors
+
+- Arun Shakya
+- Aditya
+- Aditya Singh
+- Kanha Panday
+- Anughrah Bhardwaj
